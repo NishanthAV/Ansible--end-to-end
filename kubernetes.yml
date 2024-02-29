@@ -1,0 +1,3 @@
+#Create 2 Ec2 instance on AWS(Teraform)
+#Configure 1 of those Ec2 instance as master(Ansible)
+#Configure 2 other ec2 instances as worker(Ansible)
